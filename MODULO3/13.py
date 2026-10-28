@@ -8,4 +8,4 @@ def divi(a, b):
     return a / b
 
 if __name__ == "__main__":
-    raise RuntimeError("Este módulo debe importarse, no ejecutarse directamente")
+    print("Este módulo debe importarse, no ejecutarse directamente")
